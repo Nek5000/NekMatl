@@ -10,8 +10,10 @@ its anaysis in an easier way using the matlab codes.
 This includes demo codes:
 
    - Spectral element discretizations (basic components)
-   - Spectral element multigrids: run `mgrid_demo.m`
+   - Spectral element multigrid Poisson solver: run `mgrid_demo.m`
    - Spectral element Navier-Stokes solver: run `nst_demo.m`
+  
+More to be added (eg., projection, jacobian-free newton, etc)
     
     
 
