@@ -1,16 +1,17 @@
 # NekMatl
 
-**NekMetl** has Nek5000 matlab codes for helping users understand the essential components
-of Nek5000 based on the **spectral element method (SEM)**[1] and allowing users experiment
-new algorithmic implementation and anaysis in an easier way using the matlab codes.
+**NekMetl** has Nek5000 matlab codes for helping users to understand the essential components
+of Nek5000 based on the **spectral element method (SEM)**[1] and allowing users
+to experiment a new algorithmic implementation and 
+its anaysis in an easier way using the matlab codes.
 
 
 
 This includes demo codes:
 
    - Spectral element discretizations (basic components)
-   - Spectral element multigrids
-   - Spectral element Navier-Stokes solver
+   - Spectral element multigrids: run `mgrid_demo.m`
+   - Spectral element Navier-Stokes solver: run `nst_demo.m`
     
     
 
